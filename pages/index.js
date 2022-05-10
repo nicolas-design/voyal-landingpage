@@ -118,14 +118,6 @@ export default function Home() {
             <Image src="/youtube.png" height={40} width={40} />
           </div>
         </div>
-        <div css={linkStyle}>
-          <a
-            href="https://www.flaticon.com/free-icons/whatsapp"
-            title="whatsapp icons"
-          >
-            Icons created by Pixel perfect - Flaticon
-          </a>
-        </div>
       </div>
     </>
   );
